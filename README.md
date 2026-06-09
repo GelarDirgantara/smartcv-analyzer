@@ -1,4 +1,4 @@
-# 🎯 SmartCV Analyzer
+# SmartCV Analyzer
 
 > AI-powered CV analyzer that scores your resume against job descriptions, identifies gaps, and gives specific improvement suggestions — in seconds.
 
@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 Demo
+## Demo
 
 **Live App:** [smartcv-analyzer.streamlit.app](https://smartcv-analyzer.streamlit.app) *(deploy setelah setup)*
 
@@ -100,7 +100,7 @@ smartcv-analyzer/
    ```
    GROQ_API_KEY = "gsk_xxxx"
    ```
-5. Deploy → selesai! 🎉
+5. Deploy → selesai!
 
 ---
 
@@ -119,11 +119,12 @@ __pycache__/
 
 ## 📸 Screenshots
 
-*(Tambahkan screenshot app setelah running)*
+<img width="601" height="461" alt="smartcv-analyzer2" src="https://github.com/user-attachments/assets/74f8d881-475c-44b8-bfb7-28f3712fd6ed" />
+
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Pull requests welcome! Feel free to open issues untuk bug reports atau feature requests.
 
@@ -135,4 +136,4 @@ MIT License — bebas digunakan dan dimodifikasi.
 
 ---
 
-*Built with ❤️ using Groq + LLaMA 3.3 + Streamlit*
+*Built with using Groq + LLaMA 3.3 + Streamlit*
